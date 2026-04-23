@@ -6,6 +6,7 @@ Bu proje, makine öğrenmesinin temel kavramlarını uygulamalı olarak öğrenm
  Kod İçeriği
  
 🔹 1. Sınıflandırma (Classification)
+
 Decision Tree modeli oluşturma
 Eğitim ve test veri setine ayırma
 Model performans ölçümü:
@@ -17,10 +18,13 @@ Model görselleştirme
 🔹 2. Kümeleme (Clustering)
 
 📌 K-Means Clustering
+
 Veri seti oluşturma
 Model eğitimi
 Küme merkezlerinin görselleştirilmesi
+
 📌 Hiyerarşik Kümeleme
+
 Dendrogram oluşturma
 Küme yapısının analiz edilmesi
 Sonuçların görselleştirilmesi
@@ -28,12 +32,14 @@ Sonuçların görselleştirilmesi
 🔹 3. Boyut İndirgeme (Dimensionality Reduction)
 
 📌 PCA (Principal Component Analysis)
+
 Veri boyutunun azaltılması
 2D görselleştirme ile veri dağılımının incelenmesi
 
 🔹 4. Model Değerlendirme
 
 📌 Cross Validation Teknikleri
+
 K-Fold Cross Validation
 Stratified K-Fold
 Leave-One-Out
@@ -55,12 +61,14 @@ Scikit-learn
 Projede örnek olarak Iris veri seti kullanılmıştır.
 
 📈 Amaç
+
 Makine öğrenmesi algoritmalarını anlamak
 Farklı model türlerini karşılaştırmak
 Model performansını değerlendirme tekniklerini öğrenmek
 Veri görselleştirme becerilerini geliştirmek
 
 ✨ Geliştirme Fikirleri
+
 Daha fazla veri seti ile test
 Farklı algoritmaların eklenmesi (SVM, Random Forest)
 GridSearchCV ile daha kapsamlı tuning
