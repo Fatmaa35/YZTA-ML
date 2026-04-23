@@ -45,6 +45,7 @@ Matplotlib
 Scikit-learn
 
 📂 Veri Seti
+
 Projede örnek olarak Iris veri seti kullanılmıştır.
 
 📈 Amaç
